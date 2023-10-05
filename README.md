@@ -2,4 +2,6 @@
 
 Notes, notebooks, and related resources from the Pluralsight learning path.
 
-Most of the work as of now pertains to the `Building Classification Models with scikit-learn` course.
+## Note about datasets
+
+Some large data files are ignored through `.gitignore` because their size breaks `git push`.
