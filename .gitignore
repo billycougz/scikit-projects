@@ -1,2 +1,7 @@
 .ipynb_checkpoints
 .DS_Store
+
+# ignore large data files
+classification/datasets/fashion-mnist/train.csv
+classification/datasets/fashion-mnist/test.csv
+clustering/datasets/mnist.csv

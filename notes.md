@@ -130,3 +130,12 @@ PIP 22.3.1 (18.1)
 
 pip install -U scikit-learn
 jupyter notebook
+
+# 9/15 Regression
+## e
+Euler's Number 'e' is a numerical constant used in mathematical calculations. The value of e is 2.718281828459045…so on. Just like pi(π), e is also an irrational number. It is described basically under logarithm concepts. 'e' is a mathematical constant, which is basically the base of the natural logarithm.
+
+## Negative Exponent
+Small Numbers
+
+Negative exponents tell us how many times we have to multiply the reciprocal of the base number. For example, 2-2. The equivalent expression of 2-2 is (½)× (½).
